@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PvtDee
-- 🌱 I’m currently learning software developing and very much excited for this journey! I'll be happy connect and share knowledge so hit me up!
+- 👋 Hi, I’m @PvtDee!
+- 🌱 I’m currently learning software developing and very much excited for this journey! I'll be happy to connect and share knowledge so hit me up!
 
 
 <!---
